@@ -100,6 +100,10 @@ name = "ownership"
 version = "0.1.0"
 
 [[package]]
+name = "single-thread"
+version = "0.1.0"
+
+[[package]]
 name = "string"
 version = "0.1.0"
 

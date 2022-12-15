@@ -6,4 +6,5 @@ members = [
   "complex-num",
   "ownership",
   "string",
+  "single-thread"
 ]
