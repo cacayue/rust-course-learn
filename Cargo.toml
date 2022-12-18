@@ -6,5 +6,7 @@ members = [
   "complex-num",
   "ownership",
   "string",
-  "single-thread"
+  "single-thread",
+  "multi-thread",
+  "async-web-server"
 ]
