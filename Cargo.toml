@@ -8,5 +8,6 @@ members = [
   "string",
   "single-thread",
   "multi-thread",
-  "async-web-server"
+  "async-web-server",
+  "my-redis"
 ]
